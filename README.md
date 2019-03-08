@@ -7,7 +7,8 @@ Esta es una aplicacion que genera archivos de tablas de multiplicar usando la co
 para ejecutar el programa seguir los siguientes pasos -->
 
     * npm install 
-    * node app opcion --help para obtener una ayuda de como usar
+    * node app opcion --help para obtener ayuda sobre el funcionamiento de la app
+    
     
     ejemplo:
 
